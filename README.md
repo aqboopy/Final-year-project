@@ -2,6 +2,8 @@
 
 A comprehensive deep learning pipeline for automated breast cancer detection using mammography images from the CBIS-DDSM dataset. This project implements multiple CNN architectures with medical-specific optimizations and provides interpretability through Grad-CAM visualizations.
 
+This project was completed using Jupyter Notebook.
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -250,5 +252,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Medical imaging research community
 
 ---
+
 
 **Disclaimer**: This system is for research purposes only and has not been validated for clinical use. Always consult qualified medical professionals for diagnostic decisions.
