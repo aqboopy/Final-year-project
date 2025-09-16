@@ -4,6 +4,10 @@ A comprehensive deep learning pipeline for automated breast cancer detection usi
 
 This project was completed using Jupyter Notebook.
 
+## IMPORTANT: Model Downloads
+Due to file size constraints, trained models and CBIS-DDSM Dataset are available at:[Download Link](https://drive.google.com/file/d/1HB0iXGExDf1c7klYEKFkAqAkH4Jxsqg4/view?usp=sharing)
+- Best Model Name: continued_model.keras
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -255,3 +259,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 **Disclaimer**: This system is for research purposes only and has not been validated for clinical use. Always consult qualified medical professionals for diagnostic decisions.
+
